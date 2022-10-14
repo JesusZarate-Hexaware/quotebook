@@ -1,3 +1,7 @@
 Strength through Struggle - Michael Choi
 
+<<<<<<< HEAD
 I like dogs - Turtle boy
+=======
+I like animals - Turtle boy
+>>>>>>> personal_color
